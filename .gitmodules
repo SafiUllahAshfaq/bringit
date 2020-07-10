@@ -1,0 +1,6 @@
+[submodule "bringit-bk"]
+	path = bringit-bk
+	url = git@github.com:SafiUllahAshfaq/bringit-bk.git
+[submodule "bringit-fe-react"]
+	path = bringit-fe-react
+	url = git@github.com:SafiUllahAshfaq/bringit-fe-react.git
